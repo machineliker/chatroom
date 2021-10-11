@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T09:35:12.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="i5pQgAQpPQyE-LaNUWVg" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T09:46:06.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="aPmMs2WsKHlv3DTw9i-e" version="15.5.0" type="github">
   <diagram id="MXTZsPqxnjbq6VYE26BY" name="Page-1">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,6 +131,157 @@
         </mxCell>
         <mxCell id="krZkahWFCAur-_JaZwQ9-49" value="学生详尽查询页" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="170" y="460" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-50" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="krZkahWFCAur-_JaZwQ9-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="240" as="sourcePoint" />
+            <mxPoint x="390" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-52" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="krZkahWFCAur-_JaZwQ9-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="240" as="sourcePoint" />
+            <mxPoint x="390" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-54" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="krZkahWFCAur-_JaZwQ9-52">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-57" value="" style="curved=1;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="krZkahWFCAur-_JaZwQ9-58" target="krZkahWFCAur-_JaZwQ9-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-58" value="返回首页" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-59" value="" style="curved=1;endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="krZkahWFCAur-_JaZwQ9-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="230" y="485" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-60" value="" style="curved=1;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="krZkahWFCAur-_JaZwQ9-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="210" />
+              <mxPoint x="230" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-61" value="返回首页" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-66" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="krZkahWFCAur-_JaZwQ9-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="330" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-67" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="krZkahWFCAur-_JaZwQ9-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="320" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-68" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="krZkahWFCAur-_JaZwQ9-46" target="krZkahWFCAur-_JaZwQ9-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="320" as="sourcePoint" />
+            <mxPoint x="240" y="64.80001831054688" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-69" value="添加" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="krZkahWFCAur-_JaZwQ9-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-70" value="添加学生页面" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-71" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="krZkahWFCAur-_JaZwQ9-70" target="krZkahWFCAur-_JaZwQ9-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="220" as="sourcePoint" />
+            <mxPoint x="460" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-72" value="添加成功" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="krZkahWFCAur-_JaZwQ9-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="22" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-73" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="krZkahWFCAur-_JaZwQ9-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="120" as="sourcePoint" />
+            <mxPoint x="60" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="112" y="90" />
+              <mxPoint x="112" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-74" value="添加失败" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="krZkahWFCAur-_JaZwQ9-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-27" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-75" value="添加失败界面" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry y="120" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-76" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="krZkahWFCAur-_JaZwQ9-75" target="krZkahWFCAur-_JaZwQ9-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="110" as="sourcePoint" />
+            <mxPoint x="460" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-77" value="返回首页" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="krZkahWFCAur-_JaZwQ9-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-78" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="krZkahWFCAur-_JaZwQ9-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="310" as="sourcePoint" />
+            <mxPoint x="280" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-79" value="按学号删除" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="krZkahWFCAur-_JaZwQ9-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-80" value="没界面，直接弹回到详尽查询页面" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="20" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-81" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="krZkahWFCAur-_JaZwQ9-80" target="krZkahWFCAur-_JaZwQ9-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="290" as="sourcePoint" />
+            <mxPoint x="460" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krZkahWFCAur-_JaZwQ9-82" value="自动弹回" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="krZkahWFCAur-_JaZwQ9-81">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
